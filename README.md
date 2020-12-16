@@ -52,7 +52,7 @@ $ git checkout -b newFeature
 
 ### If this branch last more than one day, push to the remote
 ```
-$ git push
+$ git push --set-upstream origin newFeature
 ```
 
 ## Go back to master and merge
